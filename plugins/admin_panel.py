@@ -37,7 +37,7 @@ async def tutorial(bot,message):
 	    disable_web_page_preview=True,
 	    reply_markup=InlineKeyboardMarkup([
         			[InlineKeyboardButton("Home", callback_data="home"), 
-        			InlineKeyboardButton("Close",callback_data="help) ]])
+        			InlineKeyboardButton("Close",callback_data="close") ]])
 	)
 
 
