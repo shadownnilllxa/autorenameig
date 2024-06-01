@@ -34,7 +34,7 @@
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Auto-Rename-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/shadownnilllxa/autorenameig">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
